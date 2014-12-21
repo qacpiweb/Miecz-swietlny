@@ -66,7 +66,8 @@ volatile uint8_t swingnumber = 1;
 volatile uint8_t swingcounter = 0;
 volatile uint8_t startup = 1;
 volatile uint8_t playstop = 0;
-
+//witam
+//pozdrawiam
 
 
 #define swingthresholdhigh 	550
